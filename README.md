@@ -1,5 +1,7 @@
 # Procesamiento del lenguaje natural con tweets de desastres. 
 
+Link del video: [Youtube](https://www.youtube.com/watch?v=7wETOHeTLrc)
+
 Descargar y subir los siguientes archivos train.csv test.csv para los datos a entrenar desde acá: 
 [Kaggle Data](https://www.kaggle.com/competitions/nlp-getting-started/data)
 
