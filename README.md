@@ -10,4 +10,4 @@ Tener en cuenta a la hora de leer los csv del drive cargarlos desde la carpeta c
     df_test = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/Deep Learning/Proyecto/disaster_test.csv")
 ```
 
-Ser paciente, el entrenamiento de los modelos puede ser demorado(2h-3h)
+Ser paciente, el entrenamiento de los modelos puede ser demorado(3h-4h)
